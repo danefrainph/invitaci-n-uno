@@ -36,7 +36,7 @@ body {
   width: 300px;
   top: 67%;
   left: calc(50% - 150px);
-  color: white;
+  color: #ffffff;
 }
 
 .initialSection img {
@@ -107,11 +107,13 @@ body {
 
 .namesFamily {
   margin-top: 23px;
+  color: #ffffff;
 }
 
 .individualPass {
   font-size: 20px;
   margin: 0;
+  color: #ffffff;
 }
 
 /* ------------ cartlink styles ------------ */
