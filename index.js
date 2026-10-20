@@ -176,7 +176,7 @@ function paintPass(info, name) {
     //     <img class="gifCard" src="images/winterflower-letter-1174_256.gif" alt="">
     // </a>
     // <section class="footer-container">
-    //     <img class="weddingBackground" src="images/fondoboda.png" alt="">
+    //     <img class="weddingBackground" src="images/1.png" alt="">
     //     <img class="married" src="images/novios.png" alt="">
     // </section>`;
 };
