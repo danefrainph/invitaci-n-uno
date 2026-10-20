@@ -122,7 +122,7 @@ function getParamsURL() {
 function paintPass(info, name) {
 
     document.body.addEventListener('click', function() {
-        window.location.href = `https://bodas.tusitio.com.pe/hya`;
+        window.location.href = `https://bodas.tusitio.com.pe/ayg0126`;
     });
 
     let initialSection = document.querySelector('.initialSection');
@@ -198,8 +198,8 @@ function paintPanelControl() {
             ${guestName}
 
             <div class='urlContain'>
-                <p class='urlCopy'>https://benwhite7.github.io/bodas-invitaciones/index.html?inv=${guestList[i]}</p>
-                <button class='copyButtonUrl' data-url="https://benwhite7.github.io/bodas-invitaciones/index.html?inv=${guestList[i]}">Copiar</button>
+                <p class='urlCopy'>https://danefrainph.github.io/invitaci-n-uno/?inv=lista${guestList[i]}</p>
+                <button class='copyButtonUrl' data-url="https://danefrainph.github.io/invitaci-n-uno/?inv=${guestList[i]}">Copiar</button>
             </div>
         `;
     };
