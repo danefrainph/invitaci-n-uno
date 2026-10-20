@@ -89,6 +89,7 @@ body {
 .names {
   font-size: 27px;
   text-transform: uppercase;
+  color: #0f0f0f;
 }
 
 .reservedPasses {
@@ -107,13 +108,13 @@ body {
 
 .namesFamily {
   margin-top: 23px;
-  color: #ffffff;
+  color: #0f0f0f;
 }
 
 .individualPass {
   font-size: 20px;
   margin: 0;
-  color: #ffffff;
+  color: #0f0f0f;
 }
 
 /* ------------ cartlink styles ------------ */
